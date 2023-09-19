@@ -1,3 +1,6 @@
 [submodule "00_welcome"]
 	path = 00_welcome
 	url = https://github.com/DaviCastanha/welcome.git
+[submodule "01_todolist"]
+	path = 01_todolist
+	url = https://github.com/DaviCastanha/todo.git
