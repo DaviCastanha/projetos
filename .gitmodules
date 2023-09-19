@@ -1,0 +1,3 @@
+[submodule "00_welcome"]
+	path = 00_welcome
+	url = https://github.com/DaviCastanha/welcome.git
