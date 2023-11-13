@@ -4,3 +4,6 @@
 [submodule "01_todolist"]
 	path = 01_todolist
 	url = https://github.com/DaviCastanha/todo.git
+[submodule "02_poke"]
+	path = 02_poke
+	url = https://github.com/DaviCastanha/whosthatpokemon.git
