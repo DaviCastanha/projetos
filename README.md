@@ -19,6 +19,7 @@ O projeto não possúi componentização, nem trabalha a segurança da chamada d
 
 # 02_Whos_That_Pokemon
 
+O nostálgico game do intervalo de Pokemon.<br>
 Esse projeto foi desenvolvido da necessidade de entender API, mas acabou se tornando um treino pratico de Typescript, Postman, react(Principalmente UseState) e muito CSS. <br>
 Foi muito agradável criar um gamezinho, mesmo que seja uma cópia. Deu pra entender muito mais sobre as complexidades, bugs e desafios que eu teria para executar um projeto nesse estilo do zero.
 
