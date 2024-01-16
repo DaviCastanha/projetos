@@ -7,3 +7,6 @@
 [submodule "02_poke"]
 	path = 02_poke
 	url = https://github.com/DaviCastanha/whosthatpokemon.git
+[submodule "portfolioesqueleto"]
+	path = 03_portfolio_modelo
+	url = https://github.com/DaviCastanha/portfolioesqueleto.git

@@ -23,3 +23,9 @@ O nostálgico game do intervalo de Pokemon.<br>
 Esse projeto foi desenvolvido da necessidade de entender API, mas acabou se tornando um treino pratico de Typescript, Postman, react(Principalmente UseState) e muito CSS. <br>
 Foi muito agradável criar um gamezinho, mesmo que seja uma cópia. Deu pra entender muito mais sobre as complexidades, bugs e desafios que eu teria para executar um projeto nesse estilo do zero.
 
+# 03_Portfolio_Esqueleto
+
+Um portfólio modelo do curso de Bootstrap da freeCodeCamp Espanhol<br>
+Utilizei esse projeto para entender conceitos de frameworks de estilização e acabei aprendendo organização, meta dados e várias dicas para um código mais limpo e bem distribuído.<br>
+Uma experiência didática incrível. Recomendo aos iniciantes.
+
